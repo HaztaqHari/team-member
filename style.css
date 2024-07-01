@@ -1,6 +1,6 @@
  
  #box{
-    color: #9ec592;
+    color: #76c45e;
     background-color:rgb(144, 189, 172);
     gap: px;
     margin: 20px;
@@ -66,4 +66,12 @@ img{
     border-radius: 20px;
     height: 200px;
     width: 200px;
+}
+.mm{
+   color:#e22626; 
+   
+   text-align: center;
+   height: 40px;
+   width:auto;
+   justify-content:space-around;
 }
